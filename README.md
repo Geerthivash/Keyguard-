@@ -44,5 +44,15 @@ This project demonstrates practical skills in automation, access control, and Py
 
 ---
 
-## 📁 Project Structure
+## 📌 Purpose
+
+Created as a practical demonstration of:
+
+Content filtering mechanisms
+
+Python automation
+
+Security-oriented logic
+
+Pattern-based detection techniques
 
